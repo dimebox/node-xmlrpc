@@ -23,6 +23,7 @@
   },
   "main": "./lib/xmlrpc.js",
   "dependencies": {
+    "https-proxy-agent": "^1.0.0",
     "iconv-lite": "^0.4.13",
     "sax": "1.2.x",
     "xmlbuilder": "8.2.x"
